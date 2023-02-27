@@ -1,4 +1,4 @@
-# hogwarts-legacy-fast-mounts
+# hogwarts-legacy-one-key-assignment-to-mounts
 This AHK has been developed for fast driving with one button assigned to Mounts.
 
 ## Installation
