@@ -8,11 +8,11 @@ launch game first, then launch exe and play.\
 
 ## Usage
 
-Shortcut keys I prepared for mounts
+Shortcut keys I prepared for mounts;
 
-MagicStick=x
-Hippogriff=z
-Graphorns=<
+MagicStick=x\
+Hippogriff=z\
+Graphorns=<\
 
 If you want to change these keys, you can edit the settings.ini file.
 
