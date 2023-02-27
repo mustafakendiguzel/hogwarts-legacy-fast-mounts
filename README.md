@@ -12,7 +12,7 @@ Shortcut keys I prepared for mounts;
 
 MagicStick=x\
 Hippogriff=z\
-Graphorns=<\
+Graphorns=<
 
 If you want to change these keys, you can edit the settings.ini file.
 
